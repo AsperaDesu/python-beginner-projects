@@ -1,0 +1,1 @@
+print("P Y T H O N\n" + "  " + "PYTHON"[1] + "     " + "PYTHON"[4] + "\n" + "    " + "PYTHON"[2],"PYTHON"[3] + "\n" + "    " + "PYTHON"[2],"PYTHON"[3] + "\n" + "  "  + "PYTHON"[1] + "     " + "PYTHON"[4] + "\nP Y T H O N")

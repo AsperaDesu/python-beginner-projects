@@ -1,0 +1,11 @@
+Singapura;Singapura
+Malaysia;Kuala Lumpur
+Vietnam;Hanoi
+Thailand;Bangkok
+Laos;Vientiane
+Kamboja;Phnom Penh
+Filipina;Manila
+Tiongkok;Beijing
+Korea Selatan;Seoul
+Jepang;Tokyo
+Pakistan;Islamabad

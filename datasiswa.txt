@@ -1,0 +1,5 @@
+id,nama,jenis kelamin,nilai
+1005,Andy,Perempuan,80
+1004,Cindy,Perempuan,80
+1002,Dewi Susanti,Perempuan,80
+1003,Yulios Felix,Laki Laki,87

@@ -1,0 +1,12 @@
+kata = input("Isikan Sebuah Kata? ")
+l = int(input("Lebar Yang Diinginkan? "))
+
+kiri = kata.ljust(l)
+kanan = kata.rjust(l)
+tengah = kata.center(l)
+s = "="
+
+print("Teks Rata Kiri %3s" % (s), "|" + kiri + "|")
+print("Teks Rata Kanan %2s" % (s), "|" + kanan + "|")
+print("Teks Rata Tengah %1s" % (s), "|" + tengah + "|")
+
