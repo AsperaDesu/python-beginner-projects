@@ -1,2 +1,0 @@
-teks = "50"
-print(teks.zfill(10))
