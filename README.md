@@ -29,11 +29,11 @@ No external libraries or dependencies are required — everything runs with stan
 
 ---
 
-##💡 Notes
+## 💡 Notes
 
--This repository is not a polished project, just a record of my early learning process.
--Code quality varies — some scripts may be messy or unoptimized on purpose for practice.
--Feel free to explore if you’re just starting out or curious about beginner exercises!
+- This repository is not a polished project, just a record of my early learning process.
+- Code quality varies — some scripts may be messy or unoptimized on purpose for practice.
+- Feel free to explore if you’re just starting out or curious about beginner exercises!
 
 ---
 
